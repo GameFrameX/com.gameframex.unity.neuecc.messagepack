@@ -16,7 +16,13 @@
         "Microsoft.NET.StringTools.dll",
         "System.Runtime.Extensions.dll"
     ],
-    "autoReferenced": true,
-    "defineConstraints": [],
+    "autoReferenced": true,    
+    "versionDefines": [
+        {
+            "name": "com.neuecc.messagepack",
+            "expression": "",
+            "define": "ENABLE_MESSAGEPACK"
+        }
+    ],
     "versionDefines": []
 }
