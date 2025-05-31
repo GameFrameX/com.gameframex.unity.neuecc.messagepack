@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.5.142](https://github.com/GameFrameX/com.gameframex.unity.neuecc.messagepack/tree/2.5.142) (2025-05-31)
+
+[Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.neuecc.messagepack/compare/2.5.141...2.5.142)
+
 ## [2.5.141](https://github.com/GameFrameX/com.gameframex.unity.neuecc.messagepack/tree/2.5.141) (2025-05-30)
 
 [Full Changelog](https://github.com/GameFrameX/com.gameframex.unity.neuecc.messagepack/compare/2.5.140...2.5.141)
