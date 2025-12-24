@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/gameframex/com.gameframex.unity.neuecc.messagepack/compare/2.5.143...2.6.0) (2025-12-24)
+
+
+### Features
+
+* **ci:** change ci ([846d803](https://github.com/gameframex/com.gameframex.unity.neuecc.messagepack/commit/846d803cbf70fc2d7caa51028e59076604aec1d7))
+
 # Changelog
 
 ## [2.5.143](https://github.com/GameFrameX/com.gameframex.unity.neuecc.messagepack/tree/2.5.143) (2025-06-01)
